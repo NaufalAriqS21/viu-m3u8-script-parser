@@ -1,3 +1,4 @@
+Forked from https://github.com/zackmark29/viu-m3u8-script-parser
 # viu-m3u8-script-parser
 Get m3u8 from viu.com
 
